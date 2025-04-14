@@ -1,0 +1,8 @@
+com/example/movie_catalogue/service/MovieService.class
+com/example/movie_catalogue/controller/MovieController.class
+com/example/movie_catalogue/repository/MovieRepository.class
+com/example/movie_catalogue/config/AppConfig.class
+com/example/movie_catalogue/dto/MovieDTO.class
+com/example/movie_catalogue/dto/MovieResponse.class
+com/example/movie_catalogue/MovieCatalogueApplication.class
+com/example/movie_catalogue/model/Movie.class
